@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Criar Conta</title>
+  <link rel="stylesheet"  href="css/login.css">
+  <link rel="stylesheet"  href="css/style.css">
+  <script
+  src="https://code.jquery.com/jquery-3.7.1.js"
+  integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+  crossorigin="anonymous"></script>
+
+</head>
+<body>
+    <header>
+        <nav>
+            <img class="logo" src="img/DC_Comics_logo.png" alt="">
+            <div class="mobile-menu">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
+            <ul class="nav-list">
+                <li> <a href="index.html"> Página Inicial </a></li>
+                <li> <a href="historia.html"> História </a></li>
+                <li> <a href="principais-personagens.html"> Principais Personagens </a></li>
+                <li> <a href="carteirinha.html"> Área DCnauta </a></li>
+                <li> <a href="sobre-o-site.html"> Sobre o Site </a></li>
+            </ul>
+            <ul class="login-page">
+                <li> <a href="login.html"> Login </a></li>
+                <img id="fotinha-login" src="img/do-utilizador.png" alt="">
+            </ul>
+ 
+        </nav>
+    </header>
+    <main>
+
+    </main>
+
+    <div id="bodylogin">
+  <div class="container">
+    <div id="signup-form">
+      <img src="img/DC_Comics_logo.png" alt="" id="pic">
+      <h2 id="cria">Create an Account</h2>
+      <input type="text" id="username" placeholder="Username" required>
+      <input type="password" id="password" placeholder="Password" required>
+      <button type="submit" onclick="signup()">Sign Up</button>
+      <p>Já tem uma conta? <a  id="contaexiste" href="login.html">Login</a></p>
+    </div>
+  </div>
+</div>
+
+  <script src="javascript/criarconta.js"></script>
+  <script src="javascript/mobile-navbar.js"></script>
+</body>
+</html>

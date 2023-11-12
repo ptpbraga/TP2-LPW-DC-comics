@@ -1,0 +1,152 @@
+body {
+    font-family: cursive;
+    background-color: whitesmoke;
+}
+#nome {
+    width: 400px;
+    height: 20px;
+    background-color: rgba(128, 128, 128, 0.445);
+    border: black solid 1px;
+    margin-bottom: 20px;
+}
+#data_aniversario {
+    width: 200px;
+    height: 20px;
+    background-color: rgba(128, 128, 128, 0.445);
+    border: black solid 1px;
+    margin-bottom: 20px;
+}
+#enviar {
+    background-color: rgba(0, 0, 0, 0.822);
+    color: white;
+    padding: 7px 12px;
+    border-radius: 25%;
+    font-family: cursive;
+    margin-top: 560px;
+    margin-left: 20px;
+}
+#carregar {
+    background-color: rgba(0, 0, 0, 0.822);
+    color: white;
+    padding: 7px 12px;
+    border-radius: 25%;
+    font-family: cursive;
+}
+.carteirinha {
+    width: 550px;
+    height: 300px;
+    border: 2px solid white;
+    padding: 10px;
+    margin: 10px;
+    font-family: cursive;
+    font-size: 14px;
+    color: white;
+    background-color: black;
+    position: absolute;
+    right: 100px;
+    top: 200px;
+    border-radius: 15%;
+}
+.picture {
+    position: absolute;
+    top: 20px;
+    left: 25px;
+}
+.picture img {
+    width: 150px;
+    height: 150px;
+}
+.nome {
+    position: absolute;
+    top: 20px;
+    left: 200px;
+    font-family: cursive;
+}
+.nome #name {
+    border: white 2px solid;
+    width: 300px;
+    height: 30px;
+    border-radius: 15%;
+    color: white;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.birth {
+    position: absolute;
+    top: 90px;
+    left: 200px;
+    font-family: cursive;
+}
+.birth #nasceu {
+    border: white 2px solid;
+    width: 300px;
+    height: 30px;
+    border-radius: 15%;
+    color: white;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.habilid {
+    position: absolute;
+    top: 170px;
+    left: 25px;
+    font-family: cursive;
+}
+.habilid #hab {
+    border: white 2px solid;
+    width: 500px;
+    height: 70px;
+    border-radius: 15%;
+    color: white;
+    margin-left: 5px;
+}
+
+#inpts {
+    position: absolute;
+    top: 80px;
+}
+.logotipo img {
+    width: 30px;
+    position: absolute;
+    bottom: 17px;
+    left: 25px;
+}
+#trem {
+    position: absolute;
+    top: 75px;
+    left: 50px;
+}
+
+#pri {
+    position: absolute;
+    top: 300px;
+    left: 50px;
+    
+}
+#sec {
+    position: absolute;
+    top: 300px;
+    left: 175px;
+    
+}
+#ter {
+    position: absolute;
+    top: 300px;
+    left: 330px;
+}
+
+#tipo_hab {
+    position: absolute;
+    top: 270px;
+    left: 50px;
+}
+#enca {
+    bottom: 0;
+}
+#tit {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    position: absolute;
+    top: 90px;
+    left: 15px;
+}

@@ -6,6 +6,11 @@
     <title>DCnauta de Carteirinha</title>
     <link rel="shortcut icon" href="img/DC_Comics_logo.png" type="image/x-icon">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/login.css">
+    <script
+  src="https://code.jquery.com/jquery-3.7.1.js"
+  integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+  crossorigin="anonymous"></script>
 </head>
 <body>
     <header>
@@ -30,23 +35,24 @@
  
         </nav>
     </header>
-    <main class="index-main">
-        <div id="img-um"></div>
-        <div id="um"> <a href="historia.html"> História da dc comics </a> 
-            <p>Conheça a história por trás dessa empresa que marcou o mercado de quadrinhos</p>
-        </div>
-        <div id="dois"> <a href="principais-personagens.html"> Principais Personagens </a>
-            <p>Descubra quem são os personagens mais marcantes para compor sua equipe</p>
-        </div>
-        <div id="tres"> <a href="carteirinha.html"> Área DCnauta</a>
-            <p>Local para interação, participe de enquetes e crie sua equipe dos sonhos para te prpteger</p>
-        </div>
-        <div id="quatro"> <a href="sobre-o-site.html">Sobre o site</a>
-            <p>Entenda as mentes por trás da criação do site</p>
-        </div>
-        <div id="img-dois"></div>
+    <main>
 
     </main>
+
+    <div id="bodylogin">
+    <div class="container">
+    <h1 id="logo">Login</h1>
+    <div id="login-form">
+        <img src="img/DC_Comics_logo.png" alt="" id="pic">
+      <input type="text" id="username" placeholder="Username" required>
+      <input type="password" id="password" placeholder="Password" required>
+      <button type="submit" onclick="login()">Login</button>
+      <p>Don't have an account? <a id="criaconta" href="criarconta.html">Create one</a></p>
+    </div>
+  </div>
+</div>
+
+    <script src="javascript/login.js"></script>
     <script src="javascript/mobile-navbar.js"></script>
 </body>
 </html>

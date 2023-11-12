@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carteirinha DCnauta</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/carteirinha.css">
+    <link rel="shortcut icon" href="img/DC_Comics_logo.png" type="image/x-icon">
+    <script
+  src="https://code.jquery.com/jquery-3.7.1.js"
+  integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+  crossorigin="anonymous"></script>
+
+</head>
+<body>
+    <header>
+        <nav>
+            <img class="logo" src="img/DC_Comics_logo.png" alt="">
+            <div class="mobile-menu">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
+            <ul class="nav-list">
+                <li> <a href="index.html"> Página Inicial </a></li>
+                <li> <a href="historia.html"> História </a></li>
+                <li> <a href="principais-personagens.html"> Principais Personagens </a></li>
+                <li> <a href="carteirinha.html"> Área DCnauta </a></li>
+                <li> <a href="sobre-o-site.html"> Sobre o Site </a></li>
+            </ul>
+            <ul class="login-page">
+                <li> <a href="login.html"> Login </a></li>
+                <img id="fotinha-login" src="img/do-utilizador.png" alt="">
+            </ul>
+ 
+        </nav>
+    </header>
+    <main>
+
+    </main>
+    <script src="javascript/mobile-navbar.js"></script>
+    <h1 id="tit">Faça sua carteirinha de Super Herói!</h1>
+    <div id="body">
+    <div class="carteirinha">
+        <div class="nome">
+            <p>Nome</p>
+            <p id="name"></p>
+        </div>
+        <div class="logotipo">
+            <img src="img/DC_Comics_logo.png" alt="">
+        </div>
+
+        <div class="birth">
+            <p>Data de nascimento</p>
+            <p id="nasceu"></p>
+        </div>
+
+        <div class="habilid">
+            <p>Habilidades</p>
+            <p id="hab"></p>
+        </div>
+
+        <div class="picture">
+            <img src="img/foto-carteirinha-base-masc.png" alt="">
+        </div>
+    </div>
+
+    <div id="inpts">
+    <form id="trem">
+        <p>
+        <label for="nome">Nome:</label>
+        </p>
+        <input type="text" id="nome" name="nome" ><br>
+
+        <p>
+        <label for="data_aniversario">Data de Aniversário:</label>
+        </p>
+        <input type="text" id="data_aniversario" name="data_aniversario" ><br>
+
+        <p>
+        <label for="cor">Cor da equipe:</label>
+        </p>
+        <input type="color" id="cor" name="cor" ><br>
+
+    </form>
+
+    <p id="tipo_hab">Habilidades: </p>
+
+    <div id="pri">
+        <label for="checkbox1">Super Força</label>
+        <input type="checkbox" id="checkbox1" name="opcao1"><br>
+
+        <p>
+        <label for="checkbox2">Super Resistência</label>
+        <input type="checkbox" id="checkbox2" name="opcao2"><br>
+    </p>
+
+        <p>
+        <label for="checkbox3">Super Velocidade</label>
+        <input type="checkbox" id="checkbox3" name="opcao3"><br>
+    </p>
+
+        <p>
+        <label for="checkbox4">Elasticidade</label>
+        <input type="checkbox" id="checkbox4" name="opcao4"><br>
+    </p>
+
+        <p>
+        <label for="checkbox5">Retração de garras</label>
+        <input type="checkbox" id="checkbox5" name="opcao5"><br>
+    </p>
+    </div>
+    <div id="sec">
+        <p>
+        <label for="checkbox6">Regeneração celular instantânea</label>
+        <input type="checkbox" id="checkbox6" name="opcao6"><br>
+        </p>
+
+        <p>
+        <label for="checkbox7">Imortabilidade</label>
+        <input type="checkbox" id="checkbox7" name="opcao7"><br>
+        </p>
+
+        <p>
+        <label for="checkbox8">Invisibilidade</label>
+        <input type="checkbox" id="checkbox8" name="opcao8"><br>
+        </p>
+
+        <p>
+        <label for="checkbox9">Intangibilidade</label>
+        <input type="checkbox" id="checkbox9" name="opcao9"><br>
+    </p>
+
+    <p>
+        <label for="checkbox10">Amorfismo</label>
+        <input type="checkbox" id="checkbox10" name="opcao10"><br>
+    </p>
+    </div>
+    <div id="ter">
+        <p>
+        <label for="checkbox11">Adaptação Ambiental</label>
+        <input type="checkbox" id="checkbox11" name="opcao11"><br>
+    </p>
+
+    <p>
+        <label for="checkbox12">Incorporalidade</label>
+        <input type="checkbox" id="checkbox12" name="opcao12"><br>
+    </p>
+
+    <p>
+        <label for="checkbox13">Camuflagem</label>
+        <input type="checkbox" id="checkbox13" name="opcao13"><br>
+    </p>
+
+    <p>
+        <label for="checkbox14">Leitura de mentes</label>
+        <input type="checkbox" id="checkbox14" name="opcao14"><br>
+    </p>
+
+    <p>
+        <label for="checkbox15">Super visão</label>
+        <input type="checkbox" id="checkbox15" name="opcao15"><br>
+    </p>
+    </div>
+
+    <div id="enca">
+    <input type="submit" value="Enviar" id="enviar">
+    <button id="carregar">Carregar</button>
+    </div>
+
+    </div>
+    </div>
+
+    <script src="javascript/carteirinha.js"></script>
+
+    
+</body>
+</html>
