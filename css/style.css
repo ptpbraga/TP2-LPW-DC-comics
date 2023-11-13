@@ -79,6 +79,40 @@ main {
     margin: 8px;
  }
 
+ #tit {
+    color: rgb(15, 129, 201);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 120px;
+    right: 300px;
+ }
+ #imgesq{
+    width: 160px;
+    border-radius: 35%;
+    position: absolute;
+    top: 130px;
+    left: 100px;
+ }
+ #imgdir{
+    width: 160px;
+    position: absolute;
+    bottom: 70px;
+    right: 100px;
+    height: 150px;
+ }
+ #pdir {
+    position: absolute;
+    top: 210px;
+    right: 100px;
+    left: 350px;
+ }
+ #pesq {
+    position: absolute;
+    bottom: 130px;
+    left: 100px;
+    right: 350px;
+ }
+
 @media (max-width: 800px) {
     body {
         overflow-x: hidden;
