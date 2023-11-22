@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+main{
+  display: grid;
+  grid-template-columns: 2% 25% 5% 25% 5% 25% 2%;
+  grid-template-rows: 10% 80% 10%;
+  background-image: url(/img/gotham-background.jpg);
+}
+
+.container-1{
+  margin: 5%;
+  padding: 0 2rem;
+  grid-column: 2/3;
+}
+
+.container-2{
+  margin: 5%;
+  padding: 0 2rem;
+  top: 15%;
+  grid-column: 4/5;
+}
+
+.container-3{
+  margin: 5%;
+  padding: 0 2rem;
+  top: 15%;
+  grid-column: 6/7;
+}
+  
+  
+.swiper {
+  position: relative;
+  width: 240px;
+  height: 320px;
+}
+
+.swiper-slide {
+  border-radius: 18px;
+}
+
+.swiper-slide img {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 18px;
+}
+
+.heading {
+  padding-top: 3rem;
+  font-size: 5ex;
+  color: #0477BF;
+  text-align: center;
+}
+
