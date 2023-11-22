@@ -233,7 +233,7 @@ main {
 }
 
 #img-um{
-    background-image: url(/img/home-image-1.png);
+    background-image: url(img/home-image-1.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left center;
@@ -243,7 +243,7 @@ main {
 
 #img-dois{
     display: block;
-    background-image: url(/img/home-page-2.png);
+    background-image: url(img/home-page-2.png);
     background-position: left center;
     grid-column: 4/6;
     grid-row: 3/5;
