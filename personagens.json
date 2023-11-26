@@ -1,0 +1,837 @@
+{
+    "results": [
+{
+    "response": "success",
+    "id": "38",
+    "name": "Aquaman",
+    "full-name": "Orin",
+    "alter-egos": "No alter egos found.",
+    "aliases": [
+      "Dweller in the Depths",
+      "Swimmer",
+      "Waterbearer",
+      "Mental Man",
+      "Aquaboy",
+      "Water Wraith"
+    ],
+    "place-of-birth": "Atlantis",
+    "first-appearance": "More Fun Comics #73 (November, 1941)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+},
+
+{
+    "response": "success",
+    "id": "298",
+    "name": "Green Arrow",
+    "full-name": "Oliver Queen",
+    "alter-egos": "No alter egos found.",
+    "aliases": [
+      "The Emerald Archer",
+      "Battling Bowman"
+    ],
+    "place-of-birth": "-",
+    "first-appearance": "More Fun Comics #73 (November 1941)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+
+  {
+    "response": "success",
+    "id": "70",
+    "name": "Batman",
+    "powerstats": {
+      "intelligence": "100",
+      "strength": "26",
+      "speed": "27",
+      "durability": "50",
+      "power": "47",
+      "combat": "100"
+    },
+    "biography": {
+      "fullname": "Bruce Wayne",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "Insider",
+        "Matches Malone"
+      ],
+      "place-of-birth": "Crest Hill, Bristol Township; Gotham County",
+      "first-appearance": "Detective Comics #27",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "6'2",
+        "188 cm"
+      ],
+      "weight": [
+        "210 lb",
+        "95 kg"
+      ],
+      "eye-color": "blue",
+      "hair-color": "black"
+    },
+    "work": {
+      "occupation": "Businessman",
+      "base": "Batcave, Stately Wayne Manor, Gotham City; Hall of Justice, Justice League Watchtower"
+    },
+    "connections": {
+      "group-affiliation": "Batman Family, Batman Incorporated, Justice League, Outsiders, Wayne Enterprises, Club of Heroes, formerly White Lantern Corps, Sinestro Corps",
+      "relatives": "Damian Wayne (son), Dick Grayson (adopted son), Tim Drake (adopted son), Jason Todd (adopted son), Cassandra Cain (adopted ward)\nMartha Wayne (mother, deceased), Thomas Wayne (father, deceased), Alfred Pennyworth (former guardian), Roderick Kane (grandfather, deceased), Elizabeth Kane (grandmother, deceased), Nathan Kane (uncle, deceased), Simon Hurt (ancestor), Wayne Family"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "432",
+    "name": "Martian Manhunter",
+    "powerstats": {
+      "intelligence": "100",
+      "strength": "95",
+      "speed": "92",
+      "durability": "100",
+      "power": "100",
+      "combat": "85"
+    },
+    "biography": {
+      "full-name": "J'onn J'onzz",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "ohn Jones; J'Onn J'Onzz (alternate spelling); Big Green Buddy; J.J.; Jolly Green Giant; Light to the Light; Manhunter; Manhunter from Mars; Son of Mars; Bronze Wraith",
+        "Bloodwynd",
+        "many others"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "Detective Comics #225 (1955)",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Martian",
+      "height": [
+        "6'7",
+        "201 cm"
+      ],
+      "weight": [
+        "300 lb",
+        "135 kg"
+      ],
+      "eye-color": "Red",
+      "hair-color": "No Hair"
+    },
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    },
+    "connections": {
+      "group-affiliation": "Darkstars, Justice League of Aliens, Justice League Of America, Justice League Task Force, Justice League Unlimited, Martians, Outsiders",
+      "relatives": "M'yrnn J'onzz (father, deceased); Sha'sheen J'onzz (mother, deceased); M'yri'ah (wife, deceased); K'hym (daughter, deceased); Ma'alefa'ak (twin brother); D'all (father-in-law, deceased); J'ahrl J'onzz (ancestor, deceased)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/733.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "263",
+    "name": "Flash",
+    "powerstats": {
+      "intelligence": "63",
+      "strength": "10",
+      "speed": "100",
+      "durability": "50",
+      "power": "68",
+      "combat": "32"
+    },
+    "biography": {
+      "full-name": "Jay Garrick",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "Jay Garrick",
+        "Siegfreid the Speedster"
+      ],
+      "place-of-birth": "Hibbardsville, Kansas",
+      "first-appearance": "Flash Comics #1 (January 1940)",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "5'11",
+        "180 cm"
+      ],
+      "weight": [
+        "179 lb",
+        "81 kg"
+      ],
+      "eye-color": "Blue",
+      "hair-color": "Brown / White"
+    },
+    "work": {
+      "occupation": "Research Scientist, part-time Director of Garrick Laboratories",
+      "base": "Keystone City, Kansas"
+    },
+    "connections": {
+      "group-affiliation": "Justice Society of America, Flash Family; formerly All-Star Squadron",
+      "relatives": "Joseph Garrick (father), Joan Williams (wife), Arthur Williams (father-in-law), unnamed adopted son (deceased), Bart Allen (Flash II, ward)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/891.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "720",
+    "name": "Wonder Woman",
+    "powerstats": {
+      "intelligence": "88",
+      "strength": "100",
+      "speed": "79",
+      "durability": "100",
+      "power": "100",
+      "combat": "100"
+    },
+    "biography": {
+      "full-name": "Diana Prince",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "Princess Diana",
+        "Princess of the Amazons",
+        "Goddess of Truth",
+        " Wondy",
+        "Wonder Girl",
+        "The Amazon Princess"
+      ],
+      "place-of-birth": "Themyscira",
+      "first-appearance": "All-Star Comics #8 (December, 1941)",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "Amazon",
+      "height": [
+        "6'0",
+        "183 cm"
+      ],
+      "weight": [
+        "165 lb",
+        "74 kg"
+      ],
+      "eye-color": "Blue",
+      "hair-color": "Black"
+    },
+    "work": {
+      "occupation": "Adventurer, Emissary to the world of Man, Protector of Paradise Island; former Goddess of Truth",
+      "base": "-"
+    },
+    "connections": {
+      "group-affiliation": "Justice League of America, Justice Society of America (pre-Crisis Earth-2 version); All-Star Squadron (pre-Crisis Earth-2 version)",
+      "relatives": "Queen Hippolyta (mother, deceased), Donna Troy (Troia) (magically-created duplicate)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/807.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "644",
+    "name": "Superman",
+    "powerstats": {
+      "intelligence": "94",
+      "strength": "100",
+      "speed": "100",
+      "durability": "100",
+      "power": "100",
+      "combat": "85"
+    },
+    "biography": {
+      "full-name": "Clark Kent",
+      "alter-egos": "Superman Prime One-Million",
+      "aliases": [
+        "Clark Joseph Kent",
+        "The Man of Steel",
+        "the Man of Tomorrow",
+        "the Last Son of Krypton",
+        "Big Blue",
+        "the Metropolis Marvel",
+        "the Action Ace"
+      ],
+      "place-of-birth": "Krypton",
+      "first-appearance": "ACTION COMICS #1",
+      "publisher": "Superman Prime One-Million",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Kryptonian",
+      "height": [
+        "6'3",
+        "191 cm"
+      ],
+      "weight": [
+        "225 lb",
+        "101 kg"
+      ],
+      "eye-color": "Blue",
+      "hair-color": "Black"
+    },
+    "work": {
+      "occupation": "Reporter for the Daily Planet and novelist",
+      "base": "Metropolis"
+    },
+    "connections": {
+      "group-affiliation": "Justice League of America, The Legion of Super-Heroes (pre-Crisis as Superboy); Justice Society of America (pre-Crisis Earth-2 version); All-Star Squadron (pre-Crisis Earth-2 version)",
+      "relatives": "Lois Lane (wife), Jor-El (father, deceased), Lara (mother, deceased), Jonathan Kent (adoptive father), Martha Kent (adoptive mother), Seyg-El (paternal grandfather, deceased), Zor-El (uncle, deceased), Alura (aunt, deceased), Supergirl (Kara Zor-El, cousin), Superboy (Kon-El/Conner Kent, partial clone)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/791.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "551",
+    "name": "Red Tornado",
+    "powerstats": {
+      "intelligence": "75",
+      "strength": "38",
+      "speed": "67",
+      "durability": "60",
+      "power": "100",
+      "combat": "40"
+    },
+    "biography": {
+      "full-name": "John Smith",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "Ulthoon",
+        "Tornado Tyrant of Rann",
+        "Tornado Champion",
+        "Tornado Man Dreaming",
+        "\"Reddy\""
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "As Red Tornado: Justice League of America #64, As Ulthoon: Mystery in Space #61",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Android",
+      "height": [
+        "6'1",
+        "185 cm"
+      ],
+      "weight": [
+        "325 lb",
+        "146 kg"
+      ],
+      "eye-color": "Green",
+      "hair-color": "No Hair"
+    },
+    "work": {
+      "occupation": "-",
+      "base": "Happy Harbor, Rhode Island"
+    },
+    "connections": {
+      "group-affiliation": "Justice League of America, formerly Parliament of Vapors, T.O. Morrow, Justice Society of America, Young Justice, Primal Force, Leymen, Donna Troy",
+      "relatives": "T.O. Morrow (creator/father),Red Volcano (brother; deceased), Red Inferno (brother; deceased), Red Torpedo (sister; deceased), Tomorrow Woman (\"sister\"), Kathy Sutton (wife), Traya Sutton (adoptive daughter)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/1149.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "730",
+    "name": "Zatanna",
+    "powerstats": {
+      "intelligence": "81",
+      "strength": "10",
+      "speed": "23",
+      "durability": "28",
+      "power": "100",
+      "combat": "56"
+    },
+    "biography": {
+      "full-name": "Zatanna Zatara",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "-"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "Hawkman #4",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "Human",
+      "height": [
+        "5'7",
+        "170 cm"
+      ],
+      "weight": [
+        "127 lb",
+        "57 kg"
+      ],
+      "eye-color": "Blue",
+      "hair-color": "Black"
+    },
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    },
+    "connections": {
+      "group-affiliation": "Misty Kilgore, Seven Soldiers of Victory, Justice League, Sentinels of Magic",
+      "relatives": "Giovanni \"John\" Zatara (father, deceased), Sindella (mother, deceased), Leonardo da Vinci (paternal ancestor, deceased)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/809.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "491",
+    "name": "Nightwing",
+    "powerstats": {
+      "intelligence": "88",
+      "strength": "11",
+      "speed": "33",
+      "durability": "28",
+      "power": "36",
+      "combat": "100"
+    },
+    "biography": {
+      "full-name": "Dick Grayson",
+      "alter-egos": "Batman II, Robin",
+      "aliases": [
+        "Freddie Dinardo",
+        "Freddy Loyd",
+        "The Target",
+        "Renegade",
+        "The Worlds Greatest Acrobat",
+        "The Aerial Avenger",
+        "Pixie Boots",
+        "The Boy / Teen Wonder",
+        "The Worlds Greatest Detective",
+        "The Caped Crusader"
+      ],
+      "place-of-birth": "Gotham City",
+      "first-appearance": "as Dick Grayson and Robin) Detective Comics #38, (as Nightwing) Tales of the Teen Titans #44, (as Batman) Batman #512",
+      "publisher": "Batman II",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "5'10",
+        "178 cm"
+      ],
+      "weight": [
+        "175 lb",
+        "79 kg"
+      ],
+      "eye-color": "Blue",
+      "hair-color": "Black"
+    },
+    "work": {
+      "occupation": "Vigilante and detective, former police officer, former Circus Acrobat",
+      "base": "Wayne Tower, Gotham City; formerly the Batcave; formerly Bludhaven; formerly New York City"
+    },
+    "connections": {
+      "group-affiliation": "Batman Family and the JLA; formerly the Teen Titans, the New Titans, the Titans and the Outsiders",
+      "relatives": "John Grayson (father, deceased), Mary Grayson (mother, deceased), Bruce Wayne / Batman (adoptive father), Damian Wayne / Robin (foster brother), Jason Todd / Red Hood (adoptive brother), Tim Drake / Red Robin (adoptive brother), Cassandra Cain / Batgirl IV (adoptive sister)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/851.jpg"
+    }
+  },
+  
+  {
+    "response": "success",
+    "id": "546",
+    "name": "Red Hood",
+    "powerstats": {
+      "intelligence": "75",
+      "strength": "12",
+      "speed": "23",
+      "durability": "28",
+      "power": "35",
+      "combat": "95"
+    },
+    "biography": {
+      "full-name": "Jason Todd",
+      "alter-egos": "Robin II",
+      "aliases": [
+        "Robin",
+        "Red Robin",
+        "Batman",
+        "Nightwing",
+        "Arkham Knight"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "Batman #635",
+      "publisher": "Robin II",
+      "alignment": "neutral"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "6'0",
+        "183 cm"
+      ],
+      "weight": [
+        "180 lb",
+        "81 kg"
+      ],
+      "eye-color": "Blue",
+      "hair-color": "Black"
+    },
+    "work": {
+      "occupation": "Mercenary, Vigilante",
+      "base": "-"
+    },
+    "connections": {
+      "group-affiliation": "formerly Batman Family, Teen Titans",
+      "relatives": "Willis Todd (father, deceased); Sheila Haywood (mother, deceased); Catherine Ann Todd (adoptive mother, deceased), Bruce Wayne (adoptive father), Dick Grayson and Tim Drake (adoptive brothers)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "563",
+    "name": "Robin III",
+    "powerstats": {
+      "intelligence": "81",
+      "strength": "11",
+      "speed": "27",
+      "durability": "28",
+      "power": "29",
+      "combat": "85"
+    },
+    "biography": {
+      "full-name": "Tim Drake",
+      "alter-egos": "Red Robin",
+      "aliases": [
+        "Alvin Draper",
+        "Batman",
+        "Robin",
+        "Timothy Wayne"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "Batman #436 (August, 1989)",
+      "publisher": "Red Robin",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "5'5",
+        "165 cm"
+      ],
+      "weight": [
+        "125 lb",
+        "56 kg"
+      ],
+      "eye-color": "Blue",
+      "hair-color": "Black"
+    },
+    "work": {
+      "occupation": "High School Student",
+      "base": "Gotham City; Titans Tower, San Francisco"
+    },
+    "connections": {
+      "group-affiliation": "Teen Titans, Batman Family, Batman Inc., Wayne Enterprises; formerly Young Justice",
+      "relatives": "Jack Drake (father, deceased), Janet Drake (mother, deceased), Dana Winters Drake (step-mother, status unknown), Bruce Wayne (Batman, adoptive father), Damian Wayne (Robin V, adoptive brother), Dick Grayson (Robin I, adoptive brother), Jason Todd (Robin II, adoptive brother), Cassandra Cain (Batgirl IV, adoptive sister)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/769.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "564",
+    "name": "Robin V",
+    "powerstats": {
+      "intelligence": "69",
+      "strength": "8",
+      "speed": "33",
+      "durability": "16",
+      "power": "29",
+      "combat": "65"
+    },
+    "biography": {
+      "full-name": "Damian Wayne",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "Batman",
+        "Damian al Ghul",
+        "Ibn al Xu'ffasch",
+        "Redbird"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "Batman: Son of the Demon",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "4'6",
+        "137 cm"
+      ],
+      "weight": [
+        "84 lb",
+        "38 kg"
+      ],
+      "eye-color": "Blue",
+      "hair-color": "Black"
+    },
+    "work": {
+      "occupation": "-",
+      "base": "Gotham City"
+    },
+    "connections": {
+      "group-affiliation": "Batman Family, Batman Inc., Wayne Enterprises; formerly Teen Titans, League of Assassins",
+      "relatives": "Talia al Ghul (mother),\nBruce Wayne (Batman, father),\nRa's Al Ghul (maternal grandfather),\nMelisande (maternal grandmother),\nThomas Wayne (paternal grandfather),\nMartha Wayne (paternal grandmother),\nSensei (great-grandfather),\nSimon Hurt (ancestor),\nNyssa Raatko (aunt, deceased),\nDusan al Ghul (White Ghost, uncle, deceased),\nRichard Grayson (Nightwing, adoptive brother),\nTim Drake (Red Robin, adoptive brother),\nCassandra Cain (Batgirl IV, adoptive sister),\nJason Todd (Red Hood, adoptive brother), \nPatrick Wayne (great-grandfather, deceased); \nCharles Wayne (great-great-grandfather, deceased);\nConstance Wayne (great-great-grandmother, deceased); \nAlan Wayne (ancestor, deceased); \nSolomon Wayne (ancestor, deceased); \nDarius Wayne (ancestor, deceased); \nJoshua Wayne (ancestor, deceased)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/1473.jpg"
+    }
+  },
+
+
+  {
+    "response": "success",
+    "id": "73",
+    "name": "Batwoman V",
+    "powerstats": {
+      "intelligence": "81",
+      "strength": "8",
+      "speed": "29",
+      "durability": "25",
+      "power": "27",
+      "combat": "80"
+    },
+    "biography": {
+      "full-name": "Katherine Rebecca Kane",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "-"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "52 #7 (June, 2006)",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "Human",
+      "height": [
+        "5'10",
+        "178 cm"
+      ],
+      "weight": [
+        "- lb",
+        "0 kg"
+      ],
+      "eye-color": "Green",
+      "hair-color": "Red"
+    },
+    "work": {
+      "occupation": "-",
+      "base": "Gotham City"
+    },
+    "connections": {
+      "group-affiliation": "Batman Family (unofficially), D.E.O, Unknowns",
+      "relatives": "Jacob Kane (father), Gabi Kane (mother; deceased), Beth Kane (twin sister), Mary Elizabeth \"Bette\" Kane (cousin), Catherine Hamilton-Kane (stepmother), Philip Kane (uncle), Kane Family"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/10234.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "165",
+    "name": "Catwoman",
+    "powerstats": {
+      "intelligence": "69",
+      "strength": "11",
+      "speed": "33",
+      "durability": "28",
+      "power": "27",
+      "combat": "85"
+    },
+    "biography": {
+      "full-name": "Selina Kyle",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "The Cat",
+        "Irena Dubrovna",
+        "Elva Barr",
+        "Sadie Kelowski",
+        "Madame Moderne",
+        "Marguerite Tone"
+      ],
+      "place-of-birth": "Gotham City",
+      "first-appearance": "Detective Comics #569",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "Human",
+      "height": [
+        "5'9",
+        "175 cm"
+      ],
+      "weight": [
+        "135 lb",
+        "61 kg"
+      ],
+      "eye-color": "Green",
+      "hair-color": "Black"
+    },
+    "work": {
+      "occupation": "Thief",
+      "base": "Gotham City"
+    },
+    "connections": {
+      "group-affiliation": "Batman Family, Outsiders; formerly Birds of Prey, Injustice League, Secret Society of Super-Villains",
+      "relatives": "Brian Kyle (father, deceased), Maria Kyle (mother, deceased), Maggie Kyle (sister), Helena Kyle (daughter)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/659.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "63",
+    "name": "Batgirl",
+    "powerstats": {
+      "intelligence": "88",
+      "strength": "11",
+      "speed": "33",
+      "durability": "40",
+      "power": "34",
+      "combat": "90"
+    },
+    "biography": {
+      "full-name": "Barbara Gordon",
+      "alter-egos": "Oracle",
+      "aliases": [
+        "Oracle",
+        "Bluebelle"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "Detective Comics #359",
+      "publisher": "Oracle",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "Human",
+      "height": [
+        "5'7",
+        "170 cm"
+      ],
+      "weight": [
+        "126 lb",
+        "57 kg"
+      ],
+      "eye-color": "Green",
+      "hair-color": "Red"
+    },
+    "work": {
+      "occupation": "-",
+      "base": "Gotham City, formerly Metropolis, Platinum Flats"
+    },
+    "connections": {
+      "group-affiliation": "-",
+      "relatives": "James Gordon (father) � Barbara Eileen (mother) � James Gordon, Jr. (brother)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/1111.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "68",
+    "name": "Batgirl VI",
+    "powerstats": {
+      "intelligence": "75",
+      "strength": "10",
+      "speed": "23",
+      "durability": "28",
+      "power": "22",
+      "combat": "80"
+    },
+    "biography": {
+      "full-name": "Stephanie Brown",
+      "alter-egos": "Spoiler",
+      "aliases": [
+        "Steph",
+        "Robin",
+        "Marion Todd",
+        "Spoiler"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "Detective Comics #647. As Batgirl in Batgirl (Volume 3) #1. (2009)",
+      "publisher": "Spoiler",
+      "alignment": "good"
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "null",
+      "height": [
+        "5'6",
+        "168 cm"
+      ],
+      "weight": [
+        "135 lb",
+        "61 kg"
+      ],
+      "eye-color": "Blue",
+      "hair-color": "Blond"
+    },
+    "work": {
+      "occupation": "College student at Gotham University",
+      "base": "Gotham Heights, Gotham City"
+    },
+    "connections": {
+      "group-affiliation": "The Batman Family, formerly the Birds of Prey, Tim Drake (on-and-off boyfriend)",
+      "relatives": "Arthur Brown (The Cluemaster, father), Crystal Brown (mother), unnamed daughter (given up for adoption)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/1398.jpg"
+    }
+  }
+
+]}

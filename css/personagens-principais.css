@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
-
+@font-face {
+  font-family: 'Cultive Mono';
+  src: url(/Cutive_Mono/CutiveMono-Regular.ttf);
+}
 main{
   display: grid;
   grid-template-columns: 2% 25% 5% 25% 5% 25% 2%;
@@ -49,5 +52,50 @@ main{
   font-size: 5ex;
   color: #0477BF;
   text-align: center;
+}
+
+.card:hover {
+  cursor: pointer;
+  transform: rotateY(180deg);
+}
+
+.card {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  transition: transform 1500ms;
+  transform-style: preserve-3d;
+}
+
+.front,
+.back {
+  height: 100%;
+  width: 100%;
+  border-radius: 2rem;
+  box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
+  position: absolute;
+  backface-visibility: hidden;
+}
+
+.back {
+  background-color: rgb(30, 30, 66);
+  background-repeat: no-repeat;
+  transform: rotateY(180deg);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+  color: azure;
+  font-family: 'Cultive Mono';
+  position: absolute;
+  top: 50px;
 }
 
