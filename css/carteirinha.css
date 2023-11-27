@@ -153,4 +153,16 @@ body {
     top: 12.5%;
     left: 5%;
 }
+#h {
+    position: absolute;
+    bottom: 30px;
+    right: -370px;
+}
+#habil {
+    width: 500px;
+    height: 30px;
+    background-color: rgba(128, 128, 128, 0.445);
+    border: black solid 1px;
+    margin-bottom: 20px;
+}
 
