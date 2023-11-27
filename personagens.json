@@ -1,40 +1,110 @@
 {
     "results": [
-{
-    "response": "success",
-    "id": "38",
-    "name": "Aquaman",
-    "full-name": "Orin",
-    "alter-egos": "No alter egos found.",
-    "aliases": [
-      "Dweller in the Depths",
-      "Swimmer",
-      "Waterbearer",
-      "Mental Man",
-      "Aquaboy",
-      "Water Wraith"
-    ],
-    "place-of-birth": "Atlantis",
-    "first-appearance": "More Fun Comics #73 (November, 1941)",
-    "publisher": "DC Comics",
-    "alignment": "good"
-},
+      {
+        "response": "success",
+        "id": "38",
+        "name": "Aquaman",
+        "powerstats": {
+          "intelligence": "81",
+          "strength": "85",
+          "speed": "79",
+          "durability": "80",
+          "power": "100",
+          "combat": "80"
+        },
+        "biography": {
+          "fullname": "Orin",
+          "alter-egos": "No alter egos found.",
+          "aliases": [
+            "Dweller in the Depths",
+            "Swimmer",
+            "Waterbearer",
+            "Mental Man",
+            "Aquaboy",
+            "Water Wraith"
+          ],
+          "place-of-birth": "Atlantis",
+          "first-appearance": "More Fun Comics #73 (November, 1941)",
+          "publisher": "DC Comics",
+          "alignment": "good"
+        },
+        "appearance": {
+          "gender": "Male",
+          "race": "Atlantean",
+          "height": [
+            "6'1",
+            "185 cm"
+          ],
+          "weight": [
+            "325 lb",
+            "146 kg"
+          ],
+          "eye-color": "Blue",
+          "hair-color": "Blond"
+        },
+        "work": {
+          "occupation": "Protector of the Seas and Oceans, King of Poseidonis",
+          "base": "Atlantean Royal Palace; Poseidonis, Atlantis"
+        },
+        "connections": {
+          "group-affiliation": "Justice League, Aquaman Family, Atlantean Royal Family; formerly Black Lantern Corps, Justice League International, Justice League Detroit, U.N.",
+          "relatives": "Koryak (son), Arthur Curry, Jr. (son), A.J. (son), Orm Marius (half-brother), Debbie Perkins (half-sister), Drin (adopted brother), Atlanna (mother), Atlan (father), Atlena (aunt), Porm (adopted mother), Tom Curry (adopted father), Mera (wife), Hila (sister-in-law), Haumond (uncle), Kraken (uncle), Honsu (grandfather), Lorelei (grandmother), Manu (ancestor), Nala (ancestor), Fatima (ancestor), Kalunga (ancestor), Gana (ancestor), Fiona (ancestor), Regin (ancestor), Kordax (ancestor), Bazil (ancestor), Cora (ancestor), Illya (ancestor), Dardanus (ancestor), Alloroc (ancestor), Cole (ancestor), Narmea (ancestor), Orin (ancestor), Loma (ancestor), Shalako (ancestor), Thorvall (ancestor)"
+        },
+        "image": {
+          "url": "https://www.superherodb.com/pictures2/portraits/10/100/634.jpg"
+        }
+      },
 
-{
-    "response": "success",
-    "id": "298",
-    "name": "Green Arrow",
-    "full-name": "Oliver Queen",
-    "alter-egos": "No alter egos found.",
-    "aliases": [
-      "The Emerald Archer",
-      "Battling Bowman"
-    ],
-    "place-of-birth": "-",
-    "first-appearance": "More Fun Comics #73 (November 1941)",
-    "publisher": "DC Comics",
-    "alignment": "good"
-  },
+      {
+        "response": "success",
+        "id": "298",
+        "name": "Green Arrow",
+        "powerstats": {
+          "intelligence": "81",
+          "strength": "12",
+          "speed": "35",
+          "durability": "28",
+          "power": "39",
+          "combat": "90"
+        },
+        "biography": {
+          "full-name": "Oliver Queen",
+          "alter-egos": "No alter egos found.",
+          "aliases": [
+            "The Emerald Archer",
+            "Battling Bowman"
+          ],
+          "place-of-birth": "-",
+          "first-appearance": "More Fun Comics #73 (November 1941)",
+          "publisher": "DC Comics",
+          "alignment": "good"
+        },
+        "appearance": {
+          "gender": "Male",
+          "race": "Human",
+          "height": [
+            "6'2",
+            "188 cm"
+          ],
+          "weight": [
+            "195 lb",
+            "88 kg"
+          ],
+          "eye-color": "Green",
+          "hair-color": "Blond"
+        },
+        "work": {
+          "occupation": "Professional Crime-fighter; Multi-Billionaire",
+          "base": "Star City, California; Formerly Seattle, Washington"
+        },
+        "connections": {
+          "group-affiliation": "Justice League Reserve, Connor Hawke, Mia Dearden,  Arsenal, Green Arrows of the World, Black Canary, Green Lantern Hal Jordan, Shado, Eddie Fyers, Justice League Elite, Seven Soldiers of Victory, All-Star Squadron",
+          "relatives": "Conner Hawke (son); Robert (son); Cissie King (possible daughter); Roy Harper - Red Arrow (adoptive son); Dinah Laurel Lance (wife); Dinah Drake Lance (mother-in-law, deceased); Larry Lance (father-in-law, deceased)"
+        },
+        "image": {
+          "url": "https://www.superherodb.com/pictures2/portraits/10/100/696.jpg"
+        }
+      },
 
   {
     "response": "success",
@@ -832,6 +902,469 @@
     "image": {
       "url": "https://www.superherodb.com/pictures2/portraits/10/100/1398.jpg"
     }
+  },
+
+  {
+    "response": "success",
+    "id": "370",
+    "name": "Joker",
+    "powerstats": {
+      "intelligence": "100",
+      "strength": "10",
+      "speed": "12",
+      "durability": "60",
+      "power": "43",
+      "combat": "70"
+    },
+    "biography": {
+      "fullname": "Jack Napier",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "Red Hood I",
+        "Clown Prince of Crime",
+        "Harlequin of Hate",
+        "Jack Napier",
+        "Joe Kerr",
+        "Mr. J"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "Batman #1 (Spring 1940)",
+      "publisher": "DC Comics",
+      "alignment": "bad"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "6'5",
+        "196 cm"
+      ],
+      "weight": [
+        "192 lb",
+        "86 kg"
+      ],
+      "eye-color": "Green",
+      "hair-color": "Green"
+    },
+    "work": {
+      "occupation": "-",
+      "base": "Arkham Asylum, Gotham City; Ha-Hacienda"
+    },
+    "connections": {
+      "group-affiliation": "Black Glove, Injustice Gang, Injustice League, Joker League of Anarchy",
+      "relatives": "Jeannie (wife, deceased); Unborn son (deceased); Melvin Reipan (cousin, deceased)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/719.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "405",
+    "name": "Lex Luthor",
+    "powerstats": {
+      "intelligence": "100",
+      "strength": "53",
+      "speed": "25",
+      "durability": "65",
+      "power": "68",
+      "combat": "70"
+    },
+    "biography": {
+      "fullname": "Lex Luthor",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "-"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "Action Comics #23",
+      "publisher": "DC Comics",
+      "alignment": "bad"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "6'2'",
+        "188 cm"
+      ],
+      "weight": [
+        "210 lb",
+        "95 kg"
+      ],
+      "eye-color": "Green",
+      "hair-color": "No Hair"
+    },
+    "work": {
+      "occupation": "Owner of LexCorp",
+      "base": "-"
+    },
+    "connections": {
+      "group-affiliation": "Injustice Gang, Injustice League, Society of Supervillains",
+      "relatives": "Casey and Elaine Griggs (foster parents, deceased),\nLena Luthor (sister pre-Crisis; daughter post-Crisis),\nElizabeth Perske (ex-wife),\nPerry J. White Jr. (son, deceased),\nContessa Erica Alexandra del Portenza (wife, assumed deceased)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/727.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "731",
+    "name": "Zoom",
+    "powerstats": {
+      "intelligence": "50",
+      "strength": "10",
+      "speed": "100",
+      "durability": "28",
+      "power": "100",
+      "combat": "28"
+    },
+    "biography": {
+      "fullname": "Hunter Zolomon",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "-"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "Flash Secret Files #3",
+      "publisher": "DC Comics",
+      "alignment": "bad"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "null",
+      "height": [
+        "6'1",
+        "185 cm"
+      ],
+      "weight": [
+        "181 lb",
+        "81 kg"
+      ],
+      "eye-color": "Red",
+      "hair-color": "Brown"
+    },
+    "work": {
+      "occupation": "-",
+      "base": "Keystone City, Kansas"
+    },
+    "connections": {
+      "group-affiliation": "Secret Society of Super Villains, formerly Keystone Police Department, F.B.I.",
+      "relatives": "Ashley Zolomon (ex-wife)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/1384.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "601",
+    "name": "Sinestro",
+    "powerstats": {
+      "intelligence": "75",
+      "strength": "85",
+      "speed": "53",
+      "durability": "64",
+      "power": "100",
+      "combat": "55"
+    },
+    "biography": {
+      "fullname": "Thaal Sinestro",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "Green Lantern",
+        "White Lantern",
+        "Yellow Lantern",
+        "Parallax",
+        "Indigo Lantern"
+      ],
+      "place-of-birth": "Korugar City, Korugar",
+      "first-appearance": "Green Lantern Vol 2 #7",
+      "publisher": "DC Comics",
+      "alignment": "neutral"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Korugaran",
+      "height": [
+        "6'7",
+        "201 cm"
+      ],
+      "weight": [
+        "205 lb",
+        "92 kg"
+      ],
+      "eye-color": "Black",
+      "hair-color": "Black"
+    },
+    "work": {
+      "occupation": "-",
+      "base": "Ranx, Warworld. formerly New Korugar, Qward, Oa"
+    },
+    "connections": {
+      "group-affiliation": "Sinestro Corps, formerly Green Lantern Corps, Secret Society, Injustice League",
+      "relatives": "Witch Queen (sister, pre-Crisis), Soranik Natu (daughter), Arin Sur (wife, deceased), Abin Sur (brother-in-law, deceased), Amon Sur (nephew)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/781.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "216",
+    "name": "Deathstroke",
+    "powerstats": {
+      "intelligence": "75",
+      "strength": "30",
+      "speed": "35",
+      "durability": "100",
+      "power": "47",
+      "combat": "90"
+    },
+    "biography": {
+      "fullname": "Slade Joseph Wilson",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "Slade Wilson",
+        "Deathstroke the Terminator",
+        "Batman"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "New Teen Titans #2 (December, 1980)",
+      "publisher": "DC Comics",
+      "alignment": "neutral"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "6'4",
+        "193 cm"
+      ],
+      "weight": [
+        "225 lb",
+        "101 kg"
+      ],
+      "eye-color": "Blue",
+      "hair-color": "White"
+    },
+    "work": {
+      "occupation": "Mercenary; Former Soldier, Big-Game Hunter",
+      "base": "The Labyrinth (exact location is currently unknown)"
+    },
+    "connections": {
+      "group-affiliation": "The Society, Titans; Formerly Tartarus, The Injustice League",
+      "relatives": "Wade LaFarge (Ravager III, half-brother, deceased), Adeline Kane (ex-wife, deceased), Grant Wilson (Ravager I, son, deceased), Joseph Wilson (Jericho, son), Rose Wilson (Ravager IV, daughter)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/672.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "522",
+    "name": "Poison Ivy",
+    "powerstats": {
+      "intelligence": "81",
+      "strength": "14",
+      "speed": "21",
+      "durability": "40",
+      "power": "100",
+      "combat": "40"
+    },
+    "biography": {
+      "fullname": "Pamela Isley",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "-"
+      ],
+      "place-of-birth": "Seattle, Washington",
+      "first-appearance": "Batman #181 (June 1966)",
+      "publisher": "DC Comics",
+      "alignment": "bad"
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "Human",
+      "height": [
+        "5'6",
+        "168 cm"
+      ],
+      "weight": [
+        "110 lb",
+        "50 kg"
+      ],
+      "eye-color": "Green",
+      "hair-color": "Red"
+    },
+    "work": {
+      "occupation": "Criminal, Botanist",
+      "base": "Gotham City"
+    },
+    "connections": {
+      "group-affiliation": "Formerly Injustice Gang, Suicide Squad, Harley Quinn, Secret Society of Super Villains, Joker League of Anarchy",
+      "relatives": "-"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/757.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "514",
+    "name": "Penguin",
+    "powerstats": {
+      "intelligence": "75",
+      "strength": "10",
+      "speed": "12",
+      "durability": "28",
+      "power": "30",
+      "combat": "45"
+    },
+    "biography": {
+      "fullname": "Oswald Chesterfield Cobblepot",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "-"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "DETECTIVE COMICS #58 (December, 1941)",
+      "publisher": "DC Comics",
+      "alignment": "bad"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "5'2",
+        "157 cm"
+      ],
+      "weight": [
+        "175 lb",
+        "79 kg"
+      ],
+      "eye-color": "Blue",
+      "hair-color": "Black"
+    },
+    "work": {
+      "occupation": "Trader",
+      "base": "Gotham City"
+    },
+    "connections": {
+      "group-affiliation": "-",
+      "relatives": "Miranda Cobblepot (Aunt), Miranda (Mother, deceased), Father (deceased)"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/753.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "558",
+    "name": "Riddler",
+    "powerstats": {
+      "intelligence": "100",
+      "strength": "10",
+      "speed": "12",
+      "durability": "14",
+      "power": "10",
+      "combat": "14"
+    },
+    "biography": {
+      "fullname": "Edward Nigma",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "E. Nigma",
+        "Edward E. Nigma"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "Detective Comics #140 (1948)",
+      "publisher": "DC Comics",
+      "alignment": "bad"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "null",
+      "height": [
+        "-",
+        "0 cm"
+      ],
+      "weight": [
+        "- lb",
+        "0 kg"
+      ],
+      "eye-color": "-",
+      "hair-color": "-"
+    },
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    },
+    "connections": {
+      "group-affiliation": "-",
+      "relatives": "-"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/768.jpg"
+    }
+  },
+
+  {
+    "response": "success",
+    "id": "576",
+    "name": "Scarecrow",
+    "powerstats": {
+      "intelligence": "81",
+      "strength": "10",
+      "speed": "12",
+      "durability": "14",
+      "power": "48",
+      "combat": "50"
+    },
+    "biography": {
+      "fullname": "Jonathan Crane",
+      "alter-egos": "No alter egos found.",
+      "aliases": [
+        "-"
+      ],
+      "place-of-birth": "-",
+      "first-appearance": "WORLD'S FINEST COMICS #3 (Fall, 1941)",
+      "publisher": "DC Comics",
+      "alignment": "bad"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "6'0",
+        "183 cm"
+      ],
+      "weight": [
+        "140 lb",
+        "63 kg"
+      ],
+      "eye-color": "Blue",
+      "hair-color": "Brown"
+    },
+    "work": {
+      "occupation": "Special Professional Criminal",
+      "base": "Gotham City"
+    },
+    "connections": {
+      "group-affiliation": "Injustice Gang",
+      "relatives": "-"
+    },
+    "image": {
+      "url": "https://www.superherodb.com/pictures2/portraits/10/100/819.jpg"
+    }
   }
+  
 
 ]}

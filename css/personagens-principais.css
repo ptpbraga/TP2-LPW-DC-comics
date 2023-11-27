@@ -117,7 +117,7 @@ p{
 
 p li{
   position: relative;
-  left: -2%;
+  right: 12%;
   top: -20px;
   font-size: smaller;
   padding: 5%;
@@ -130,6 +130,11 @@ p li{
 .aquaman{
   background-image: url(/img/aquaman-back.png);
   background-size: cover;
+}
+
+.aquaman h2{
+  position: relative;
+  top: -4%;
 }
 
 .arrow{
@@ -151,7 +156,7 @@ p li{
 }
 
 .flash{
-  background-image: url(/img/flash-.png);
+  background-image: url(/img/flash-back.png);
   background-size: cover;
 }
 
@@ -164,10 +169,18 @@ p li{
   background-image: url(/img/tornado-back.png);
   background-size: cover;
 }
+.tornado h2{
+  position: relative;
+  top: 2%;
+}
 
 .superman{
   background-image: url(/img/superman-back.png);
   background-size: cover;
+}
+.superman h2{
+  position: relative;
+  top: 1.5%;
 }
 
 .zatana{
@@ -248,6 +261,11 @@ p li{
 .exterminador{
   background-image: url(/img/exterminador-back.png);
   background-size: cover;
+}
+
+.exterminador h2{
+  position: relative;
+  top: 10%;
 }
 
 .hera{

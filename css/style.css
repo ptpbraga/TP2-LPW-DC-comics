@@ -18,7 +18,8 @@ a:hover {
 
 .logo{
     position: absolute;
-    left: 0;
+    left: 5%;
+    top: 0%;
     display: block;
     z-index: 3;
     height: 80px;

@@ -13,12 +13,12 @@ $.ajax({
   success: resposta => {
     let results = resposta.results;
     $('#aquaman-h1').html(`${results[0].name}`);
-    // $('#aquaman-h3').html(`${results[0].id}`);
-    // $('#aquaman-p').html(`<ul> <li>Nome Completo: ${results[0].biography.fullname}</li><li>Inteligência: ${results[0].powerstats.intelligence}</li><li>Força: ${results[0].powerstats.strength}</li><li>Velocidade: ${results[0].powerstats.speed}</li><li>Durabilidade: ${results[0].powerstats.durability}</li><li>Poder: ${results[0].powerstats.power}</li><li>Combate: ${results[0].powerstats.combat}</li>`);
+    $('#aquaman-h3').html(`${results[0].id}`);
+    $('#aquaman-p').html(`<ul> <li>Nome Completo: ${results[0].biography.fullname}</li><li>Inteligência: ${results[0].powerstats.intelligence}</li><li>Força: ${results[0].powerstats.strength}</li><li>Velocidade: ${results[0].powerstats.speed}</li><li>Durabilidade: ${results[0].powerstats.durability}</li><li>Poder: ${results[0].powerstats.power}</li><li>Combate: ${results[0].powerstats.combat}</li>`);
 
     $('#arrow-h1').html(`${results[1].name}`);
-    // $('#arrow-h3').html(`${results[1].id}`);
-    // $('#arrow-p').html(`<ul> <li>Nome Completo: ${results[1].biography.fullname}</li><li>Inteligência: ${results[1].powerstats.intelligence}</li><li>Força: ${results[1].powerstats.strength}</li><li>Velocidade: ${results[1].powerstats.speed}</li><li>Durabilidade: ${results[1].powerstats.durability}</li><li>Poder: ${results[1].powerstats.power}</li><li>Combate: ${results[1].powerstats.combat}</li>`);
+    $('#arrow-h3').html(`${results[1].id}`);
+    $('#arrow-p').html(`<ul> <li>Nome Completo: ${results[1].biography.fullname}</li><li>Inteligência: ${results[1].powerstats.intelligence}</li><li>Força: ${results[1].powerstats.strength}</li><li>Velocidade: ${results[1].powerstats.speed}</li><li>Durabilidade: ${results[1].powerstats.durability}</li><li>Poder: ${results[1].powerstats.power}</li><li>Combate: ${results[1].powerstats.combat}</li>`);
 
 
     $('.batman-h1').html(`${results[2].name}`);
@@ -85,58 +85,58 @@ $.ajax({
     $('#gato-p').html(`<ul> <li>Nome Completo: ${results[14].biography.fullname}</li><li>Inteligência: ${results[14].powerstats.intelligence}</li><li>Força: ${results[14].powerstats.strength}</li><li>Velocidade: ${results[14].powerstats.speed}</li><li>Durabilidade: ${results[14].powerstats.durability}</li><li>Poder: ${results[14].powerstats.power}</li><li>Combate: ${results[14].powerstats.combat}</li>`);
 
 
-    $('#stephanie-h1').html(`${results[15].name}`);
-    $('#stephanie-h3').html(`${results[15].id}`);
-    $('#stephanie-p').html(`<ul> <li>Nome Completo: ${results[15].biography.fullname}</li><li>Inteligência: ${results[15].powerstats.intelligence}</li><li>Força: ${results[15].powerstats.strength}</li><li>Velocidade: ${results[15].powerstats.speed}</li><li>Durabilidade: ${results[15].powerstats.durability}</li><li>Poder: ${results[15].powerstats.power}</li><li>Combate: ${results[15].powerstats.combat}</li>`);
+    $('#barbara-h1').html(`${results[15].name}`);
+    $('#barbara-h3').html(`${results[15].id}`);
+    $('#barbara-p').html(`<ul> <li>Nome Completo: ${results[15].biography.fullname}</li><li>Inteligência: ${results[15].powerstats.intelligence}</li><li>Força: ${results[15].powerstats.strength}</li><li>Velocidade: ${results[15].powerstats.speed}</li><li>Durabilidade: ${results[15].powerstats.durability}</li><li>Poder: ${results[15].powerstats.power}</li><li>Combate: ${results[15].powerstats.combat}</li>`);
 
 
-    // $('#barbara-h1').html(`${results[16].name}`);
-    // $('#barbara-h3').html(`${results[16].id}`);
-    // $('#barbara-p').html(`<ul> <li>Nome Completo: ${results[16].biography.fullname}</li><li>Inteligência: ${results[16].powerstats.intelligence}</li><li>Força: ${results[16].powerstats.strength}</li><li>Velocidade: ${results[16].powerstats.speed}</li><li>Durabilidade: ${results[16].powerstats.durability}</li><li>Poder: ${results[16].powerstats.power}</li><li>Combate: ${results[16].powerstats.combat}</li>`);
+    $('#stephanie-h1').html(`${results[16].name}`);
+    $('#stephanie-h3').html(`${results[16].id}`);
+    $('#stephanie-p').html(`<ul> <li>Nome Completo: ${results[16].biography.fullname}</li><li>Inteligência: ${results[16].powerstats.intelligence}</li><li>Força: ${results[16].powerstats.strength}</li><li>Velocidade: ${results[16].powerstats.speed}</li><li>Durabilidade: ${results[16].powerstats.durability}</li><li>Poder: ${results[16].powerstats.power}</li><li>Combate: ${results[16].powerstats.combat}</li>`);
 
 
-    // $('#coringa-h1').html(`${results[17].name}`);
-    // $('#coringa-h3').html(`${results[17].id}`);
-    // $('#coringa-p').html(`<ul> <li>Nome Completo: ${results[17].biography.fullname}</li><li>Inteligência: ${results[17].powerstats.intelligence}</li><li>Força: ${results[17].powerstats.strength}</li><li>Velocidade: ${results[17].powerstats.speed}</li><li>Durabilidade: ${results[17].powerstats.durability}</li><li>Poder: ${results[17].powerstats.power}</li><li>Combate: ${results[17].powerstats.combat}</li>`);
+    $('#coringa-h1').html(`${results[17].name}`);
+    $('#coringa-h3').html(`${results[17].id}`);
+    $('#coringa-p').html(`<ul> <li>Nome Completo: ${results[17].biography.fullname}</li><li>Inteligência: ${results[17].powerstats.intelligence}</li><li>Força: ${results[17].powerstats.strength}</li><li>Velocidade: ${results[17].powerstats.speed}</li><li>Durabilidade: ${results[17].powerstats.durability}</li><li>Poder: ${results[17].powerstats.power}</li><li>Combate: ${results[17].powerstats.combat}</li>`);
     
 
-    // $('#lex-h1').html(`${results[18].name}`);
-    // $('#lex-h3').html(`${results[18].id}`);
-    // $('#lex-p').html(`<ul> <li>Nome Completo: ${results[18].biography.fullname}</li><li>Inteligência: ${results[18].powerstats.intelligence}</li><li>Força: ${results[18].powerstats.strength}</li><li>Velocidade: ${results[18].powerstats.speed}</li><li>Durabilidade: ${results[18].powerstats.durability}</li><li>Poder: ${results[18].powerstats.power}</li><li>Combate: ${results[18].powerstats.combat}</li>`);
+    $('#lex-h1').html(`${results[18].name}`);
+    $('#lex-h3').html(`${results[18].id}`);
+    $('#lex-p').html(`<ul> <li>Nome Completo: ${results[18].biography.fullname}</li><li>Inteligência: ${results[18].powerstats.intelligence}</li><li>Força: ${results[18].powerstats.strength}</li><li>Velocidade: ${results[18].powerstats.speed}</li><li>Durabilidade: ${results[18].powerstats.durability}</li><li>Poder: ${results[18].powerstats.power}</li><li>Combate: ${results[18].powerstats.combat}</li>`);
 
-    // $('#reverso-h1').html(`${results[19].name}`);
-    // $('#reverso-h3').html(`${results[19].id}`);
-    // $('#reverso-p').html(`<ul> <li>Nome Completo: ${results[19].biography.fullname}</li><li>Inteligência: ${results[19].powerstats.intelligence}</li><li>Força: ${results[19].powerstats.strength}</li><li>Velocidade: ${results[19].powerstats.speed}</li><li>Durabilidade: ${results[19].powerstats.durability}</li><li>Poder: ${results[19].powerstats.power}</li><li>Combate: ${results[19].powerstats.combat}</li>`);
-
-
-    // $('#sinestro-h1').html(`${results[20].name}`);
-    // $('#sinestro-h3').html(`${results[20].id}`);
-    // $('#sinestro-p').html(`<ul> <li>Nome Completo: ${results[20].biography.fullname}</li><li>Inteligência: ${results[20].powerstats.intelligence}</li><li>Força: ${results[20].powerstats.strength}</li><li>Velocidade: ${results[20].powerstats.speed}</li><li>Durabilidade: ${results[20].powerstats.durability}</li><li>Poder: ${results[20].powerstats.power}</li><li>Combate: ${results[20].powerstats.combat}</li>`);
+    $('#reverso-h1').html(`${results[19].name}`);
+    $('#reverso-h3').html(`${results[19].id}`);
+    $('#reverso-p').html(`<ul> <li>Nome Completo: ${results[19].biography.fullname}</li><li>Inteligência: ${results[19].powerstats.intelligence}</li><li>Força: ${results[19].powerstats.strength}</li><li>Velocidade: ${results[19].powerstats.speed}</li><li>Durabilidade: ${results[19].powerstats.durability}</li><li>Poder: ${results[19].powerstats.power}</li><li>Combate: ${results[19].powerstats.combat}</li>`);
 
 
-    // $('#exterminador-h1').html(`${results[21].name}`);
-    // $('#exterminador-h3').html(`${results[21].id}`);
-    // $('#exterminador-p').html(`<ul> <li>Nome Completo: ${results[21].biography.fullname}</li><li>Inteligência: ${results[21].powerstats.intelligence}</li><li>Força: ${results[21].powerstats.strength}</li><li>Velocidade: ${results[21].powerstats.speed}</li><li>Durabilidade: ${results[21].powerstats.durability}</li><li>Poder: ${results[21].powerstats.power}</li><li>Combate: ${results[21].powerstats.combat}</li>`);
+    $('#sinestro-h1').html(`${results[20].name}`);
+    $('#sinestro-h3').html(`${results[20].id}`);
+    $('#sinestro-p').html(`<ul> <li>Nome Completo: ${results[20].biography.fullname}</li><li>Inteligência: ${results[20].powerstats.intelligence}</li><li>Força: ${results[20].powerstats.strength}</li><li>Velocidade: ${results[20].powerstats.speed}</li><li>Durabilidade: ${results[20].powerstats.durability}</li><li>Poder: ${results[20].powerstats.power}</li><li>Combate: ${results[20].powerstats.combat}</li>`);
 
 
-    // $('#hera-h1').html(`${results[22].name}`);
-    // $('#hera-h3').html(`${results[22].id}`);
-    // $('#hera-p').html(`<ul> <li>Nome Completo: ${results[22].biography.fullname}</li><li>Inteligência: ${results[22].powerstats.intelligence}</li><li>Força: ${results[22].powerstats.strength}</li><li>Velocidade: ${results[22].powerstats.speed}</li><li>Durabilidade: ${results[22].powerstats.durability}</li><li>Poder: ${results[22].powerstats.power}</li><li>Combate: ${results[22].powerstats.combat}</li>`);
+    $('#exterminador-h1').html(`${results[21].name}`);
+    $('#exterminador-h3').html(`${results[21].id}`);
+    $('#exterminador-p').html(`<ul> <li>Nome Completo: ${results[21].biography.fullname}</li><li>Inteligência: ${results[21].powerstats.intelligence}</li><li>Força: ${results[21].powerstats.strength}</li><li>Velocidade: ${results[21].powerstats.speed}</li><li>Durabilidade: ${results[21].powerstats.durability}</li><li>Poder: ${results[21].powerstats.power}</li><li>Combate: ${results[21].powerstats.combat}</li>`);
 
 
-    // $('#pinguim-h1').html(`${results[23].name}`);
-    // $('#pinguim-h3').html(`${results[23].id}`);
-    // $('#pinguim-p').html(`<ul> <li>Nome Completo: ${results[23].biography.fullname}</li><li>Inteligência: ${results[23].powerstats.intelligence}</li><li>Força: ${results[23].powerstats.strength}</li><li>Velocidade: ${results[23].powerstats.speed}</li><li>Durabilidade: ${results[23].powerstats.durability}</li><li>Poder: ${results[23].powerstats.power}</li><li>Combate: ${results[23].powerstats.combat}</li>`);
+    $('#hera-h1').html(`${results[22].name}`);
+    $('#hera-h3').html(`${results[22].id}`);
+    $('#hera-p').html(`<ul> <li>Nome Completo: ${results[22].biography.fullname}</li><li>Inteligência: ${results[22].powerstats.intelligence}</li><li>Força: ${results[22].powerstats.strength}</li><li>Velocidade: ${results[22].powerstats.speed}</li><li>Durabilidade: ${results[22].powerstats.durability}</li><li>Poder: ${results[22].powerstats.power}</li><li>Combate: ${results[22].powerstats.combat}</li>`);
+
+
+    $('#pinguim-h1').html(`${results[23].name}`);
+    $('#pinguim-h3').html(`${results[23].id}`);
+    $('#pinguim-p').html(`<ul> <li>Nome Completo: ${results[23].biography.fullname}</li><li>Inteligência: ${results[23].powerstats.intelligence}</li><li>Força: ${results[23].powerstats.strength}</li><li>Velocidade: ${results[23].powerstats.speed}</li><li>Durabilidade: ${results[23].powerstats.durability}</li><li>Poder: ${results[23].powerstats.power}</li><li>Combate: ${results[23].powerstats.combat}</li>`);
     
 
-    // $('#charada-h1').html(`${results[24].name}`);
-    // $('#charada-h3').html(`${results[24].id}`);
-    // $('#charada-p').html(`<ul> <li>Nome Completo: ${results[24].biography.fullname}</li><li>Inteligência: ${results[24].powerstats.intelligence}</li><li>Força: ${results[24].powerstats.strength}</li><li>Velocidade: ${results[24].powerstats.speed}</li><li>Durabilidade: ${results[24].powerstats.durability}</li><li>Poder: ${results[24].powerstats.power}</li><li>Combate: ${results[24].powerstats.combat}</li>`);
+    $('#charada-h1').html(`${results[24].name}`);
+    $('#charada-h3').html(`${results[24].id}`);
+    $('#charada-p').html(`<ul> <li>Nome Completo: ${results[24].biography.fullname}</li><li>Inteligência: ${results[24].powerstats.intelligence}</li><li>Força: ${results[24].powerstats.strength}</li><li>Velocidade: ${results[24].powerstats.speed}</li><li>Durabilidade: ${results[24].powerstats.durability}</li><li>Poder: ${results[24].powerstats.power}</li><li>Combate: ${results[24].powerstats.combat}</li>`);
 
 
-    // $('#espantalho-h1').html(`${results[25].name}`);
-    // $('#espantalho-h3').html(`${results[25].id}`);
-    // $('#espantalho-p').html(`<ul> <li>Nome Completo: ${results[25].biography.fullname}</li><li>Inteligência: ${results[25].powerstats.intelligence}</li><li>Força: ${results[25].powerstats.strength}</li><li>Velocidade: ${results[25].powerstats.speed}</li><li>Durabilidade: ${results[25].powerstats.durability}</li><li>Poder: ${results[25].powerstats.power}</li><li>Combate: ${results[25].powerstats.combat}</li>`);
+    $('#espantalho-h1').html(`${results[25].name}`);
+    $('#espantalho-h3').html(`${results[25].id}`);
+    $('#espantalho-p').html(`<ul> <li>Nome Completo: ${results[25].biography.fullname}</li><li>Inteligência: ${results[25].powerstats.intelligence}</li><li>Força: ${results[25].powerstats.strength}</li><li>Velocidade: ${results[25].powerstats.speed}</li><li>Durabilidade: ${results[25].powerstats.durability}</li><li>Poder: ${results[25].powerstats.power}</li><li>Combate: ${results[25].powerstats.combat}</li>`);
 
 
   }
