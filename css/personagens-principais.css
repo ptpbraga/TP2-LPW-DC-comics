@@ -33,8 +33,8 @@ main{
   
 .swiper {
   position: relative;
-  width: 240px;
-  height: 320px;
+  width: 300px;
+  height: 400px;
 }
 
 .swiper-slide {
@@ -95,7 +95,177 @@ h1{
 h2{
   color: azure;
   font-family: 'Cultive Mono';
-  position: absolute;
-  top: 50px;
+  position: relative;
+  bottom: -3%;
+  left: 3%;
+  opacity: 1.0;
 }
 
+h3{
+  color: black;
+  position: absolute;
+  left: 7.5%;
+  top: 5.5%;
+}
+
+p{
+  padding-left: 5%;
+  color: antiquewhite;
+  font-family: 'Cultive Mono';
+  opacity: 1.0;
+}
+
+p li{
+  position: relative;
+  left: -2%;
+  top: -20px;
+  font-size: smaller;
+  padding: 5%;
+  list-style: none;
+  background-color: black;
+  border-radius: 1rem;
+  margin-top: 1%;
+}
+
+.aquaman{
+  background-image: url(/img/aquaman-back.png);
+  background-size: cover;
+}
+
+.arrow{
+  background-image: url(/img/arrow-back.png);
+  background-size: cover;
+}
+
+.batman{
+  background-image: url(/img/batman-back.png);
+  background-size: cover;
+}
+
+.cacador{
+  background-image: url(/img/cacador-back.png);
+  background-size: cover;
+}
+.cacador h2{
+  font-size: 2ch;
+}
+
+.flash{
+  background-image: url(/img/flash-.png);
+  background-size: cover;
+}
+
+.maravilha{
+  background-image: url(/img/maravilha-back.png);
+  background-size: cover;
+}
+
+.tornado{
+  background-image: url(/img/tornado-back.png);
+  background-size: cover;
+}
+
+.superman{
+  background-image: url(/img/superman-back.png);
+  background-size: cover;
+}
+
+.zatana{
+  background-image: url(/img/zatana-back.png);
+  background-size: cover;
+}
+
+
+/* BATFAMILY */
+
+.dick{
+  background-image: url(/img/dick-back.png);
+  background-size: cover;
+}
+
+.jason{
+  background-image: url(/img/jason-back.png);
+  background-size: cover;
+}
+
+.tim{
+  background-image: url(/img/tim-back.png);
+  background-size: cover;
+}
+
+.damian{
+  background-image: url(/img/damian-back.png);
+  background-size: cover;
+}
+
+.batwoman{
+  background-image: url(/img/batwoman-back.png);
+  background-size: cover;
+}
+.batwoman h2{
+  position: relative;
+  top: 10%;
+}
+.gato{
+  background-image: url(/img/gato-back.png);
+  background-size: cover;
+}
+
+.stephanie{
+  background-image: url(/img/stephanie-back.png);
+  background-size: cover;
+}
+
+.barbara{
+  background-image: url(/img/barbara-back.png);
+  background-size: cover;
+}
+
+
+/* VILÕES */
+
+
+.coringa{
+  background-image: url(/img/coringa-back.png);
+  background-size: cover;
+}
+
+.lex{
+  background-image: url(/img/lex-back.png);
+  background-size: cover;
+}
+
+.reverso{
+  background-image: url(/img/reverso-back.png);
+  background-size: cover;
+}
+
+.sinestro{
+  background-image: url(/img/sinestro-back.png);
+  background-size: cover;
+}
+
+.exterminador{
+  background-image: url(/img/exterminador-back.png);
+  background-size: cover;
+}
+
+.hera{
+  background-image: url(/img/hera-back.png);
+  background-size: cover;
+}
+
+.pinguim{
+  background-image: url(/img/pinguim-back.png);
+  background-size: cover;
+}
+
+.charada{
+  background-image: url(/img/charada-back.png);
+  background-size: cover;
+}
+
+.espantalho{
+  background-image: url(/img/espantalho-back.png);
+  background-size: cover;
+}

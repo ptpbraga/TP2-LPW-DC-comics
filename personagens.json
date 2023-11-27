@@ -55,7 +55,7 @@
         "Insider",
         "Matches Malone"
       ],
-      "place-of-birth": "Crest Hill, Bristol Township; Gotham County",
+      "birth": "Crest Hill, Bristol Township; Gotham County",
       "first-appearance": "Detective Comics #27",
       "publisher": "DC Comics",
       "alignment": "good"
@@ -100,7 +100,7 @@
       "combat": "85"
     },
     "biography": {
-      "full-name": "J'onn J'onzz",
+      "fullname": "J'onn J'onzz",
       "alter-egos": "No alter egos found.",
       "aliases": [
         "ohn Jones; J'Onn J'Onzz (alternate spelling); Big Green Buddy; J.J.; Jolly Green Giant; Light to the Light; Manhunter; Manhunter from Mars; Son of Mars; Bronze Wraith",
@@ -152,7 +152,7 @@
       "combat": "32"
     },
     "biography": {
-      "full-name": "Jay Garrick",
+      "fullname": "Jay Garrick",
       "alter-egos": "No alter egos found.",
       "aliases": [
         "Jay Garrick",
@@ -203,7 +203,7 @@
       "combat": "100"
     },
     "biography": {
-      "full-name": "Diana Prince",
+      "fullname": "Diana Prince",
       "alter-egos": "No alter egos found.",
       "aliases": [
         "Princess Diana",
@@ -258,7 +258,7 @@
       "combat": "85"
     },
     "biography": {
-      "full-name": "Clark Kent",
+      "fullname": "Clark Kent",
       "alter-egos": "Superman Prime One-Million",
       "aliases": [
         "Clark Joseph Kent",
@@ -314,7 +314,7 @@
       "combat": "40"
     },
     "biography": {
-      "full-name": "John Smith",
+      "fullname": "John Smith",
       "alter-egos": "No alter egos found.",
       "aliases": [
         "Ulthoon",
@@ -368,7 +368,7 @@
       "combat": "56"
     },
     "biography": {
-      "full-name": "Zatanna Zatara",
+      "fullname": "Zatanna Zatara",
       "alter-egos": "No alter egos found.",
       "aliases": [
         "-"
@@ -418,7 +418,7 @@
       "combat": "100"
     },
     "biography": {
-      "full-name": "Dick Grayson",
+      "fullname": "Dick Grayson",
       "alter-egos": "Batman II, Robin",
       "aliases": [
         "Freddie Dinardo",
@@ -477,7 +477,7 @@
       "combat": "95"
     },
     "biography": {
-      "full-name": "Jason Todd",
+      "fullname": "Jason Todd",
       "alter-egos": "Robin II",
       "aliases": [
         "Robin",
@@ -531,7 +531,7 @@
       "combat": "85"
     },
     "biography": {
-      "full-name": "Tim Drake",
+      "fullname": "Tim Drake",
       "alter-egos": "Red Robin",
       "aliases": [
         "Alvin Draper",
@@ -584,7 +584,7 @@
       "combat": "65"
     },
     "biography": {
-      "full-name": "Damian Wayne",
+      "fullname": "Damian Wayne",
       "alter-egos": "No alter egos found.",
       "aliases": [
         "Batman",
@@ -638,7 +638,7 @@
       "combat": "80"
     },
     "biography": {
-      "full-name": "Katherine Rebecca Kane",
+      "fullname": "Katherine Rebecca Kane",
       "alter-egos": "No alter egos found.",
       "aliases": [
         "-"
@@ -688,7 +688,7 @@
       "combat": "85"
     },
     "biography": {
-      "full-name": "Selina Kyle",
+      "fullname": "Selina Kyle",
       "alter-egos": "No alter egos found.",
       "aliases": [
         "The Cat",
@@ -743,7 +743,7 @@
       "combat": "90"
     },
     "biography": {
-      "full-name": "Barbara Gordon",
+      "fullname": "Barbara Gordon",
       "alter-egos": "Oracle",
       "aliases": [
         "Oracle",
@@ -794,7 +794,7 @@
       "combat": "80"
     },
     "biography": {
-      "full-name": "Stephanie Brown",
+      "fullname": "Stephanie Brown",
       "alter-egos": "Spoiler",
       "aliases": [
         "Steph",

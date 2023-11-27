@@ -2,6 +2,7 @@ body {
     font-family: cursive;
     background-color: whitesmoke;
 }
+
 #nome {
     width: 400px;
     height: 20px;
@@ -149,6 +150,7 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
     position: absolute;
-    top: 90px;
-    left: 15px;
+    top: 12.5%;
+    left: 5%;
 }
+
