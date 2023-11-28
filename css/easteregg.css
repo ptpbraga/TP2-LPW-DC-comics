@@ -1,3 +1,56 @@
-#body-easter {
+body {
     background-image: url(/img/batcaverna.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#batman{
+    display: block;
+    height: 50vh;
+    width: 30vw;
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+}
+
+#balao{
+    background-color: rgb(2, 51, 51);
+    border-radius: 2rem;
+    position: absolute;
+    height: 30vh;
+    width: 50vw;
+    bottom: 10%;
+    left: 25%;
+}
+p {
+    padding: 5%;
+    color: antiquewhite;
+    font-size: larger;
+}
+
+#claro{
+    position: relative;
+    height: 5vh;
+    width: 10vh;
+    border-radius: 1rem;
+    top: 20%;
+    left: 60%;
+}
+
+#nao{
+    position: relative;
+    top: 20%;
+    left: 65%;
+    height: 5vh;
+    width: 20vh;
+    border-radius: 1rem;
+}
+
+.volte{
+    position: relative;
+    top: 20%;
+    left: 65%;
+    height: 5vh;
+    width: 20vh;
+    border-radius: 1rem;
 }

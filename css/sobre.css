@@ -1,0 +1,26 @@
+main{
+    background-image: url(/img/batcaverna.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+}
+
+h1{
+    grid-column: 2/3;
+    text-align: center;
+    color: antiquewhite ;
+}
+p{
+    background-color: black;
+    grid-column: 2/3;
+    text-align: center;
+    color: antiquewhite;
+    position: relative;
+    top: -20%;
+    padding: 3%;
+}
+
+a{
+    color: antiquewhite;
+}

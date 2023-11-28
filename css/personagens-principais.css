@@ -287,3 +287,13 @@ p li{
   background-image: url(/img/espantalho-back.png);
   background-size: cover;
 }
+
+footer{
+  height: 2vh;
+  width: 100vw;
+  background-color: black;
+}
+
+footer p{
+  color: antiquewhite;
+}

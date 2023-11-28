@@ -19,7 +19,7 @@ a:hover {
 .logo{
     position: absolute;
     left: 5%;
-    top: 0%;
+    top: 2.5%;
     display: block;
     z-index: 3;
     height: 80px;
@@ -42,6 +42,8 @@ main {
 }
 
 .nav-list {
+    position: absolute;
+    left: 20%;
     letter-spacing: 3px;
     margin-left: 32px;
     display: flex;
@@ -245,8 +247,47 @@ main {
 #img-dois{
     display: block;
     background-image: url(/img/home-page-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     background-position: left center;
     grid-column: 4/6;
     grid-row: 3/5;
 }
 
+#boomerang{
+    background-image: url(/img/boomerang.png);
+    width: 2vw;
+    height: 1.5vh;
+    position: relative;
+    right: 110%;
+    bottom: 40%;
+}
+
+#ganhou{
+    background-color: rgb(2, 51, 51);
+    border-radius: 2rem;
+    position: absolute;
+    height: 25vh;
+    width: 25vw;
+    bottom: 10%;
+    left: 25%;
+    opacity: 0;
+}
+
+#ganhou p {
+    padding: 5%;
+    color: antiquewhite;
+    font-size: larger;
+    position: relative;
+    top: 10%;
+    left: 10%;
+}
+
+#fechar{
+    position: relative;
+    height: 5vh;
+    width: 10vh;
+    border-radius: 1rem;
+    top: 45%;
+    left: 40%;
+}
